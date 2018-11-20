@@ -1,0 +1,2 @@
+insert into quicksight.count_user_rolling_days
+select * from quicksight.count_user_rolling_days_stg
